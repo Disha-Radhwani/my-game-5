@@ -81,7 +81,6 @@ trashGroup=createGroup();
 
 function draw() {
   
-  background(180);
   //displaying score
   text("Score: "+ score,1000,50);
   
